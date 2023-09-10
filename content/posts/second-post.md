@@ -27,6 +27,6 @@ After going through the meanings of Transcendental in different dictionaries I w
 
 E.g. The soul is transcendental, it can not be seen but it can be perceived because when it is not present in a body, the body is called dead.
 
-#### ---
+#### -------------------------------------------
 
  Of course, I will also talk about things of our daily life that is not so transcendental as travel to another planets...

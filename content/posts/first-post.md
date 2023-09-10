@@ -4,13 +4,15 @@ date = 2023-09-10T10:12:04+05:30
 draft = false
 +++
 
-nama om vishnu-padaya krishna-preshthaya bhu-tale
+Yesterday it was Srila Prabhupada's Vyasa Puja here in Vrindavana, so I would like to share with you my offering to Srila Prabhupada, the founder-acarya of ISKCON
 
-srimate bhaktivedanta-svamin iti namine
+#### nama om vishnu-padaya krishna-preshthaya bhu-tale
 
-namas te saraswate deve gaura-vani-pracarine
+#### srimate bhaktivedanta-svamin iti namine
 
-nirvishesha-shunyavadi-pashchatya-desha-tarine
+#### namas te saraswate deve gaura-vani-pracarine
+
+#### nirvishesha-shunyavadi-pashchatya-desha-tarine
 
 Dear Srila Prabhupada,
 
