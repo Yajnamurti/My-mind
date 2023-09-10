@@ -1,7 +1,7 @@
 +++
 title = 'First Post'
 date = 2023-09-10T10:12:04+05:30
-draft = true
+draft = false
 +++
 
 nama om vishnu-padaya krishna-preshthaya bhu-tale
