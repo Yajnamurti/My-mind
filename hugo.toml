@@ -1,4 +1,4 @@
-baseURL = 'https://yajnamurtidas.netlify.app'
+baseURL = 'https://github.com/Yajnamurti/My-mind.git'
 languageCode = 'en-us'
 title = 'My mind'
 theme="beautifulhugo"
