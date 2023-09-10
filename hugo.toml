@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme="beautifulhugo"
+
+
+[Params]
+subtitle = "A place for my thoughts"
+
+
+[Author]
+email = "yajnamurti2@gmail"
+facebook = "Yajnamurti"
